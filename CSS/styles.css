@@ -1,0 +1,150 @@
+﻿body {
+    
+}
+
+#kwaraTechLogo2, #kwaraTechLogo3, #kwaraTechLogo4, #kwaraTechLogo5, #kwaraTechLogo6,#kwaraTechLogo7 {
+    max-height: 60px;
+    max-width: 60px;
+    margin-left: 30px;
+    
+}
+#headDiv {
+    max-height: 70px;
+    box-shadow: 0px 10px 6px 1px black;
+}
+#topHead {
+    margin-top:7px;
+    font-size: 40px;
+}
+#kwaraTechLogo {
+    max-height: 56px;
+    position:absolute;
+    left:75%;
+    top: 25px;
+}
+#headDiv{
+    background-color: deepskyblue;
+    color: white;
+}
+#supps, li {
+    display: inline-flex;
+}
+#m{
+    margin: 5px 10px 5px 5px;
+    max-width: 220px;
+}
+
+#sp {
+    border-radius: 90%;
+    min-width: 160px;
+    padding: 0px 0px 0px 0px;
+}
+#fistTitle{
+    font-size: 42px;
+    margin-left:15%;
+    margin-top: 10%;
+}
+#Theme {
+    font-size: 42px;
+    margin-left: 10%;
+}
+#details{
+    font-size: 20px;
+    max-width: 55%;
+    margin-left: 10%;
+}
+#txt{
+    margin-top:5%;
+}
+
+#fistSection, #secondSection, #thirdSection {
+    min-height: 700px;
+}
+#footer{
+    max-width:12px;
+    margin-left:25%
+}
+
+#sp{
+    max-height: 160px;
+    margin: auto;
+}
+#speakers {
+    max-width: 900px;
+    margin: auto;
+    font-size: 15px;
+    margin-top: 50px;
+}
+#rrr {
+    background-color: cadetblue;
+    box-shadow: 0px 4px 6px 1px black;
+    min-width: 120%;
+    padding: 20px 20px 20px 20px;
+}
+#fistSection {
+    color: papayawhip;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url("laptBook.jpeg");
+    width: 100%;
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-width: 0.2px;
+}
+
+form{
+    border-style:solid;
+    border-radius: 25px;
+    max-width: 50%;
+    margin: auto;
+    padding: 0% 2% 0% 5%;
+    
+}
+#secondSection {
+    max-width: 90%;
+    font-size: 25px;
+    text-align: justify;
+    padding-left: 13px;
+    margin: auto;
+}
+#thirdSection {
+    max-width: 90%;
+    font-size: 25px;
+    text-align: justify;
+    padding-left: 13px;
+    margin: auto;
+}
+#features{
+    max-width: 30px;
+}
+#welcome {
+    max-width: 50%;
+}
+#tt {
+    min-width: 100%;
+}
+#mss{
+    max-width: 80%
+}
+#laa, label {
+    font-size: 25px;
+}
+input {
+    margin-bottom: 20px;
+    min-width: 90%;
+    font-size: 18px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 3px;
+    padding: 3px 3px 3px 3px;
+}
+button {
+    font-size: 18px;
+    border-style: none;
+    border-radius: 10px;
+    border-width: 3px;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 12px;
+    background-color: deepskyblue;
+    box-shadow: 0px 10px 6px 1px black;
+    color: white
+}
